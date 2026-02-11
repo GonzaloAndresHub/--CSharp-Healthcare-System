@@ -48,9 +48,9 @@ public class Paciente
     public int Edad { get; set; }
 
     //Propiedades Privadas
-    private int saturacionOxigeno;        // más explícito que "Ox"
+    private int saturacionOxigeno;       
     private int frecuenciaCardiaca;
-    private int umbralDolorNivel; // más semántico
+    private int umbralDolorNivel; 
     //private bool tieneSintomasCriticos = true; // true = Sí, false = No
     //private string nivelDeRiesgo;
 
