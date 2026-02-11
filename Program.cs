@@ -85,7 +85,7 @@ public class Paciente
         {
             Console.WriteLine("\nNORMAL");
             Console.WriteLine("Saturación NORMAL: oxigenación adecuada, dentro de los valores esperados (95% - 100%).");
-            //Necesdito un contador
+            
         }
     }
 
